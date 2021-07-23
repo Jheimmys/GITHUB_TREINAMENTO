@@ -2,4 +2,4 @@
 
 //INICIANDO TREINAMENTO
 
-TESTANDO A FUNÇÃO RESET GIT
+testestesteste
