@@ -1,5 +1,0 @@
-<?php
-
-//INICIANDO TREINAMENTO
-
-testestesteste
